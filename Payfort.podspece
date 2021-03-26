@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "PayFortSDK"
-  spec.version      = "2.3.0"
+  spec.version      = "2.3"
   spec.summary      = "unoffical SDK "
   spec.homepage     = "https://saleh.im"
   spec.author       = "SalehAlDhobaie"
