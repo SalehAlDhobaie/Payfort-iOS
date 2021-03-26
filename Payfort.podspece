@@ -5,7 +5,7 @@ Pod::Spec.new do |spec|
   spec.homepage     = "https://saleh.im"
   spec.author       = "SalehAlDhobaie"
   spec.platform     = :ios, "13.0"
-  spec.ios.deployment_target  = '8.0'
+  spec.ios.deployment_target  = '13.0'
 
   spec.source       = { :git => "https://github.com/SalehAlDhobaie/Payfort-iOS.git" }
   spec.requires_arc = true
